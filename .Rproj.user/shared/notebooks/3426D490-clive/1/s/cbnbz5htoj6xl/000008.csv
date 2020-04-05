@@ -1,5 +1,0 @@
-"0","library(httr)"
-"0","library(dplyr)"
-"0","GET(""https://github.com/clive0305/108-2-56-inclass-practice"")%>%"
-"0","  content() %>%"
-"0","  View() "

@@ -88,4 +88,39 @@ print(`小明交易1`)
 )
 print(`小明108學年課表A`)
 ```
+```{r}
+`weather`=list( 
+   `台北市氣溫`=list(
+   time=ymd("2020-03-31","2020-04-01"),
+   `台北市`=list(
+   `the highest temperature`=25,
+   `the lowest temperature`=18)
+  ),
+   `新北市氣溫`=list(
+   time=ymd("2020-03-31","2020-04-01"),
+   `新北市`=list(
+   `the highest temperature`=24,
+   `the lowest temperature`=15)
+  )
+ )
+print(weather)
+```
+
+
+```{r}
+# list含兩個lists, 子層list又各含兩個vectors
+`小明108學年課表C` <- list(
+  `108學年第1學期`=list(
+    c("108-1"), # 可只寫 "108-1"
+    c("高級會計學","高等統計學")
+       ),
+  `108學年第2學期`=list(
+    c("108-2"),
+    c("食在拉丁美洲")
+  )
+)
+print(`小明108學年課表C`)
+```
+
+
 
