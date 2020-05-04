@@ -1,0 +1,7 @@
+"0","total <- 0"
+"0","for(i in 1:9){"
+"0","  num <- integer(0)"
+"0","  num <- grep(numerals_Gujarati[i], receipts300)"
+"0","  total = i * length(num)"
+"0","}"
+"0","sum300 <- total"

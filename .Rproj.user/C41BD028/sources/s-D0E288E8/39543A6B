@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584509300632.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3301318925",
+    "id" : "39543A6B",
+    "lastKnownWriteTime" : 1588601460,
+    "last_content_update" : 1588601460107,
+    "path" : "~/GitHub/108-2-56-inclass-practice/clive.Rmd",
+    "project_path" : "clive.Rmd",
+    "properties" : {
+        "cursorPosition" : "289,26",
+        "last_setup_crc32" : "D0E288E8bb338d19",
+        "scrollLine" : "268",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

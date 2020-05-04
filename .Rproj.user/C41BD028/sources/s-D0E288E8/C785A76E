@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587531487824.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C785A76E",
+    "lastKnownWriteTime" : 1587538526,
+    "last_content_update" : 1587538526431,
+    "path" : "~/GitHub/108-2-56-inclass-practice/exam1 410873056.Rmd",
+    "project_path" : "exam1 410873056.Rmd",
+    "properties" : {
+        "cursorPosition" : "128,55",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
