@@ -1,0 +1,4 @@
+"0","str(example[c(""name"",""hobby"",""bloodType"")])"
+"2","Error in example[c(""name"", ""hobby"", ""bloodType"")] : 
+  'closure' 類型的物件無法具有子集合
+"

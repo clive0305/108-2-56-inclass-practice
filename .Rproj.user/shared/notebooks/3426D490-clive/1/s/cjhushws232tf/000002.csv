@@ -1,0 +1,23 @@
+"0","install.packages(c(""glue""))"
+"2","WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"2","嘗試 URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/glue_1.4.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 157970 bytes (154 KB)
+"
+"2","downloaded 154 KB
+
+"
+"1","package ‘glue’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\USER\AppData\Local\Temp\Rtmp0SOhHX\downloaded_packages"
+"1",""
+"1","
+"
