@@ -1,0 +1,3 @@
+"0","pick2<-table(badEmployers$lawContent)==max(max(table(badEmployers$lawContent)))"
+"0","mostViolatedArticle_content<-names((table(badEmployers$lawContent)[pick2]))"
+"0",""

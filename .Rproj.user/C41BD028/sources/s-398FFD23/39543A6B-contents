@@ -289,6 +289,33 @@ print(example[c("name","birthday")])
 pick_after98 <- example$birthday >= lubridate::ymd("1998-01-01")
 example$name[pick_after98]
 ```
+```{r}
+str(example)
+pick_above170 <- example$height >= 170
+pick_bloodB <- example$bloodType == "B"
+pick_loveFood <- 
+  stringr::str_detect(example$hobby,"美食")
+pick_na <- is.na(example$weight)
+pick_after98 <- 
+  example$birthday >= lubridate::ymd("1998-01-01")
+set_TaipeiMetro <- c("Taipei","New Taipei")
+pick_fromTaipeiMetro <- 
+  example$residence %in% set_TaipeiMetro
+```
+```{r}
+str(example[c("name","hobby","bloodType")])
+
+example$name[
+    pick_loveFood & pick_bloodB
+  ]
+```
+```{r}
+install.packages(c("glue"))
+```
+```{r}
+library(stringr)
+library(glue)
+```
 
 
 

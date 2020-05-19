@@ -1,0 +1,2 @@
+"0","ntpu_namelist<-students10$'姓名'[str_detect(students10$'志願',""北大"")]"
+"0",""

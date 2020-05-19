@@ -1,0 +1,5 @@
+"0","First<-str_detect(students10$'志願',""北大"")"
+"0","Second<-students10$'國文'>=12"
+"0","Third<-(students10$'數學'+students10$'英文')>=26"
+"0","Fourth<-First+Second+Third"
+"0","ntpu_econtpu_eco<-students10$'姓名'[Fourth==3]"
