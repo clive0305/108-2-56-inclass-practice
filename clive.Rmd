@@ -388,6 +388,15 @@ convert_TaiwanDate2WesternDate <- function(twDate){
 twDate <-  c("民國108年12月5日","民國98年10月5日")
 convert_TaiwanDate2WesternDate(twDate)
 ```
+```{r}
+switch(實現的conditionExpression,
+       "conditionExpression1"= {    },
+       "conditionExpression2"= {    },
+       :
+       :
+       "conditionExpressionN"= {    },
+       {    })
+```
 
 
 
